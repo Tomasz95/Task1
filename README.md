@@ -1,10 +1,6 @@
 # Task1
 Number of distinct elements, Number of elements, min value , max value
 
-
-
-
-
 import java.util.*;
 
 public class Task1 {
